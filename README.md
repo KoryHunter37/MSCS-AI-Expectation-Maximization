@@ -57,9 +57,9 @@ I clustered this image with a variety of different cluster counts. Here are the 
 
 <p align="center"><img width="366" height="270" src=images/bird-k2.png></img></p>
 <div align="center"><b>Fig 4. K-2 Color Bird Photograph</b></div>
-
-
-
+{sp} +
+{sp} +
+{sp} +
 
 <p align="center"><img width="366" height="270" src=images/bird-k3.png></img></p>
 <div align="center"><b>Fig 5. K-3 Color Bird Photograph</b></div>
