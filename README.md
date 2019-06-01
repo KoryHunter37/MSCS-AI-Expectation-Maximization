@@ -58,17 +58,29 @@ I clustered this image with a variety of different cluster counts. Here are the 
 <p align="center"><img width="366" height="270" src=images/bird-k2.png></img></p>
 <div align="center"><b>Fig 4. K-2 Color Bird Photograph</b></div>
 
+
+
+
 <p align="center"><img width="366" height="270" src=images/bird-k3.png></img></p>
 <div align="center"><b>Fig 5. K-3 Color Bird Photograph</b></div>
+
+
+
 
 <p align="center"><img width="366" height="270" src=images/bird-k4.png></img></p>
 <div align="center"><b>Fig 6. K-4 Color Bird Photograph</b></div>
 
+
+
+
 <p align="center"><img width="366" height="270" src=images/bird-k5.png></img></p>
 <div align="center"><b>Fig 7. K-5 Color Bird Photograph</b></div>
 
+
+
+
 <p align="center"><img width="366" height="270" src=images/bird-k6.png></img></p>
-<div align="center"><b>Fig 4. K-6 Color Bird Photograph</b></div>
+<div align="center"><b>Fig 8. K-6 Color Bird Photograph</b></div>
 
 # Implementing a Gaussian Mixture Model
 
